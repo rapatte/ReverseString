@@ -1,0 +1,19 @@
+{
+  "name": "reversestring",
+  "version": "1.0.0",
+  "description": "algo reverse string with tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rapatte/ReverseString.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rapatte/ReverseString/issues"
+  },
+  "homepage": "https://github.com/rapatte/ReverseString#readme"
+}
